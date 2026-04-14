@@ -1,0 +1,9 @@
+E:\IT\CourseNinteen\DVLD_Project\DVLD_Solution\DVDL.BLL\bin\Debug\DVDL.BLL.dll
+E:\IT\CourseNinteen\DVLD_Project\DVLD_Solution\DVDL.BLL\bin\Debug\DVDL.BLL.pdb
+E:\IT\CourseNinteen\DVLD_Project\DVLD_Solution\DVDL.BLL\obj\Debug\DVDL.BLL.csproj.AssemblyReference.cache
+E:\IT\CourseNinteen\DVLD_Project\DVLD_Solution\DVDL.BLL\obj\Debug\DVDL.BLL.csproj.CoreCompileInputs.cache
+E:\IT\CourseNinteen\DVLD_Project\DVLD_Solution\DVDL.BLL\obj\Debug\DVDL.BLL.dll
+E:\IT\CourseNinteen\DVLD_Project\DVLD_Solution\DVDL.BLL\obj\Debug\DVDL.BLL.pdb
+E:\IT\CourseNinteen\DVLD_Project\DVLD_Solution\DVDL.BLL\obj\Debug\DVDL.BLL.csproj.CopyComplete
+E:\IT\CourseNinteen\DVLD_Project\DVLD_Solution\DVDL.BLL\bin\Debug\DVDL.DAL.dll
+E:\IT\CourseNinteen\DVLD_Project\DVLD_Solution\DVDL.BLL\bin\Debug\DVDL.DAL.pdb
