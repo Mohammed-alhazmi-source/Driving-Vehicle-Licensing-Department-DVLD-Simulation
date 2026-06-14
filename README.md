@@ -30,6 +30,53 @@ I managed the full development cycle of this simulation, focusing on foundationa
 
 ---
 
+## 📸 System Preview & Design
+
+### 1. Relational Schema
+<img src="Screenshorts/DVLDLastVersion.png" width="700">
+
+---
+
+### 2. 3-Tier Architecture
+<img src="Screenshorts/3-Tier Architecture.png">
+
+---
+
+### 3. Business Logic Layer
+<img src="Screenshorts/BusinessLogicLayer.png">
+
+---
+
+### 4. Data Access Layer
+<img src="Screenshorts/DataAccessTier.png">
+
+---
+
+### 5. Login
+<img src="Screenshorts/login.png">
+
+---
+
+### 6. Main Screen
+<img src="Screenshorts/mainAndDrivingLicensesServiesMenu.png">
+
+---
+
+### 7. Local Driving License Applications
+<img src="Screenshorts/IssueLicenseFirtTime.png">
+
+---
+
+### 8. Management Detained Licenses
+<img src="Screenshorts/ManageDetianedLicense.png">
+
+---
+
+### 9. Management International License Applications
+<img src="Screenshorts/ManagementInternationalLicense.png">
+
+---
+
 ## ✨ Key Features
 * **Application Management:** Handling different types of license applications (New, Renew, Replace).
 * **Test Appointments:** Managing the scheduling and results of Vision, Theory, and Practical tests.
